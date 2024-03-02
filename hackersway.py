@@ -1,0 +1,1 @@
+print("Thanks to the hackers!")
